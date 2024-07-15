@@ -1,8 +1,6 @@
 {
   "ExpandedNodes": [
     "",
-    "\\.github\\workflows",
-    "\\boards\\shields",
     "\\config"
   ],
   "SelectedNode": "\\config\\corne.keymap",
